@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+#pagemargin{
+	margin-left:0px;
+	margin-right:0px;
+	
+}
+
+
+
+
+#h2
+{
+	font-family:"Comic Sans MS", cursive;
+	color:#FFF;
+	text-align:center;
+	font-size:15px;
+}
+
+
+
+#h3
+{
+	font-family:"Comic Sans MS", cursive;
+	color:#FFF;
+
+}
+
+#xml
+{
+	font-family:"Comic Sans MS", cursive;
+	color:#FFF;
+	 font-color:#FFF;
+	 font-size:24px;
+	 text-align:center;
+	 width:auto;
+
+}
+
+#music
+{
+	float:center;
+	text-align:center;
+}
+#header
+{background:url(images/tune.jpg) no-repeat;
+	
+	font-family:"Comic Sans MS", cursive;
+	width:980px;
+	height:180px;
+}
+
+#navigation2
+{
+	
+	
+	height:auto;
+	width: 980px;
+	background: #ee61a1;
+	
+	font-family:"Comic Sans MS", cursive;
+	font-style:italic;
+	
+}
+
+
+#navigation2 ul
+{
+	color:#F6B1D0;
+	margin: 0px;
+	padding: 10px;
+}
+
+#navigation2 ul li
+{
+	list-style-type: none;
+	display: inline;
+	padding: 10px;
+}
+
+#navigation2 li a
+{
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color:#F6B1D0;
+	text-decoration: none;
+	border-right: 2px solid #F6B1D0;
+}
+
+#navigation2 li a:hover { background: #FFF; }
+
+
+#content
+
+{	
+background:url(images/tune2.jpg) no-repeat;
+width: 980px;
+
+height: 980px;
+float: left;
+
+
+
+}
+
+
+
+#footer
+{
+	
+	background: url(images/footer.jpg ) no-repeat;
+	text-align: left;
+	
+	height: 880px;
+	width: 980px;
+	
+}
